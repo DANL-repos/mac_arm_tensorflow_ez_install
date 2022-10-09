@@ -18,7 +18,7 @@ Open a terminal and cd to the folder where you saved the script. E.g.<br>
 Then run it from the terminal:<br>
 `> zsh mac_arm_tensorflow_ez_install.zsh`
 
-The script will create a new environment called torch_arm and just run through all of the steps to install pytorch on your system. No questions or decisions. <br>
+The script will create a new environment called torch_arm and just run through all of the steps to install pytorch in that environment. No questions or decisions. <br>
 
 If all goes well you should see a bunch of text scroll by, and then see something like:
 ```bash

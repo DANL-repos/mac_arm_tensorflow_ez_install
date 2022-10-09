@@ -2,7 +2,7 @@
 ---
 ## Install tensor flow on Apple Silicon (ARM) 
 *It's pretty easy, but why not make it easier?*<br><br>
-This is just a script that automates the installation outlined on [@sypino](https://twitter.com/svpino)'s excellent [twitter thread.](https://twitter.com/svpino/status/1578354467572838402)  Check that thread out; he also gives clear directions for installing conda, etc.
+This is just a script that automates the installation outlined on [@sypino](https://twitter.com/svpino)'s life changing [twitter thread.](https://twitter.com/svpino/status/1578354467572838402)  Check that thread out; he also gives clear directions for installing conda, etc.
 
 ---
 ## Installation and Usage

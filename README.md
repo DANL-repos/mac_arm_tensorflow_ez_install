@@ -20,7 +20,7 @@ Then run it from the terminal:<br>
 
 The script will create a new environment called torch_arm and just run through all of the steps to install pytorch on your system. No questions or decisions. <br>
 
-If all goes well, you should see something like:
+If all goes well you should see a bunch of text scroll by, and then see something like:
 ```bash
 Checking installation; this may take a few.
 (Taking a while is a good sign.)

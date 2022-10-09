@@ -9,7 +9,7 @@ This is just a script that automates the installation outlined on [@sypino](http
 ---
 
 ### Installation:
-This script assumes that you have a working [conda installation](https://docs.conda.io/en/main/miniconda.html) and zshell (default for newer MacOs versions) installed on your system.  Download the repo's zip file somewhere on your system (e.g. ~/Downloads) and unzip.
+This script assumes that you have a working [conda installation](https://docs.conda.io/en/main/miniconda.html) and are using zshell as your default shell (it has been the default for MacOs since circa 2019) installed on your system.  Download the repo's zip file somewhere on your system (e.g. ~/Downloads) and unzip.
 
 ### Usage:<br>
 Open a terminal and cd to the folder where you saved the script. E.g.<br>
